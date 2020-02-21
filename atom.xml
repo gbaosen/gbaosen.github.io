@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-01-06T15:51:24.066Z</updated>
+  <updated>2020-02-21T04:13:46.823Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>简悬浮Pro2.6.7版发布</title>
+    <link href="http://yoursite.com/2020/02/21/Jian-Pro-2-6-7/"/>
+    <id>http://yoursite.com/2020/02/21/Jian-Pro-2-6-7/</id>
+    <published>2020-02-21T04:11:47.000Z</published>
+    <updated>2020-02-21T04:13:46.823Z</updated>
+    
+    <content type="html"><![CDATA[<p>大家好，简悬浮Pro2.6.7版本发布啦！<br>2.6.7版更新日志：<br>1.支持主屏快捷方式(安卓7.0+)<br>2.快捷操作增加音乐控制<br>3.其它一些体验优化<br>酷市场：<br><a href="http://www.coolapk.com/apk/com.bs.smarttouchpro" target="_blank" rel="noopener">http://www.coolapk.com/apk/com.bs.smarttouchpro</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;大家好，简悬浮Pro2.6.7版本发布啦！&lt;br&gt;2.6.7版更新日志：&lt;br&gt;1.支持主屏快捷方式(安卓7.0+)&lt;br&gt;2.快捷操作增加音乐控制&lt;br&gt;3.其它一些体验优化&lt;br&gt;酷市场：&lt;br&gt;&lt;a href=&quot;http://www.coolapk.com/apk/c
+      
+    
+    </summary>
+    
+      <category term="简悬浮Pro" scheme="http://yoursite.com/categories/%E7%AE%80%E6%82%AC%E6%B5%AEPro/"/>
+    
+    
+      <category term="版本发布" scheme="http://yoursite.com/tags/%E7%89%88%E6%9C%AC%E5%8F%91%E5%B8%83/"/>
+    
+  </entry>
   
   <entry>
     <title>简悬浮1.7.0版本发布</title>
@@ -483,31 +508,6 @@
     </summary>
     
       <category term="简悬浮Pro" scheme="http://yoursite.com/categories/%E7%AE%80%E6%82%AC%E6%B5%AEPro/"/>
-    
-    
-      <category term="版本发布" scheme="http://yoursite.com/tags/%E7%89%88%E6%9C%AC%E5%8F%91%E5%B8%83/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>简悬浮1.6.2版本发布</title>
-    <link href="http://yoursite.com/2019/04/22/Jian-1-6-2/"/>
-    <id>http://yoursite.com/2019/04/22/Jian-1-6-2/</id>
-    <published>2019-04-22T15:54:26.000Z</published>
-    <updated>2019-04-22T16:03:46.023Z</updated>
-    
-    <content type="html"><![CDATA[<p>大家好，简悬浮1.6.2版本发布啦！<br>1.6.2版更新日志：<br>1.优化关闭当前应用功能<br>2.其它一些细节调整<br>酷市场：<br><a href="http://www.coolapk.com/apk/com.bs.smarttouch" target="_blank" rel="noopener">http://www.coolapk.com/apk/com.bs.smarttouch</a></p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;大家好，简悬浮1.6.2版本发布啦！&lt;br&gt;1.6.2版更新日志：&lt;br&gt;1.优化关闭当前应用功能&lt;br&gt;2.其它一些细节调整&lt;br&gt;酷市场：&lt;br&gt;&lt;a href=&quot;http://www.coolapk.com/apk/com.bs.smarttouch&quot; target=
-      
-    
-    </summary>
-    
-      <category term="简悬浮" scheme="http://yoursite.com/categories/%E7%AE%80%E6%82%AC%E6%B5%AE/"/>
     
     
       <category term="版本发布" scheme="http://yoursite.com/tags/%E7%89%88%E6%9C%AC%E5%8F%91%E5%B8%83/"/>
