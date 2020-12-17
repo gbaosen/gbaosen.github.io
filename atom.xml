@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-06-27T12:04:28.164Z</updated>
+  <updated>2020-12-17T00:59:42.048Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>简悬浮Pro2.7.0版发布</title>
+    <link href="http://yoursite.com/2020/12/17/Jian-Pro-2-7-0/"/>
+    <id>http://yoursite.com/2020/12/17/Jian-Pro-2-7-0/</id>
+    <published>2020-12-17T00:58:11.000Z</published>
+    <updated>2020-12-17T00:59:42.048Z</updated>
+    
+    <content type="html"><![CDATA[<p>大家好，简悬浮Pro2.7.0版本发布啦！<br>2.7.0版更新日志：<br>1.支持悬浮按钮最高层级显示<br>2.部分机型区域截屏优化<br>3.其它一些细节调整<br>酷安：<br><a href="http://www.coolapk.com/apk/com.bs.smarttouchpro" target="_blank" rel="noopener">http://www.coolapk.com/apk/com.bs.smarttouchpro</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;大家好，简悬浮Pro2.7.0版本发布啦！&lt;br&gt;2.7.0版更新日志：&lt;br&gt;1.支持悬浮按钮最高层级显示&lt;br&gt;2.部分机型区域截屏优化&lt;br&gt;3.其它一些细节调整&lt;br&gt;酷安：&lt;br&gt;&lt;a href=&quot;http://www.coolapk.com/apk/com.bs
+      
+    
+    </summary>
+    
+      <category term="简悬浮Pro" scheme="http://yoursite.com/categories/%E7%AE%80%E6%82%AC%E6%B5%AEPro/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>简悬浮Pro2.6.9版发布</title>
@@ -474,31 +497,6 @@
       
       
         &lt;p&gt;大家好，简悬浮Pro2.5.7版本发布啦！&lt;br&gt;2.5.7版更新日志：&lt;br&gt;1.悬停功能增加开关&lt;br&gt;2.关闭悬停时恢复移动逻辑&lt;br&gt;3.完善悬停操作体验&lt;br&gt;酷市场：&lt;br&gt;&lt;a href=&quot;http://www.coolapk.com/apk/com.bs.s
-      
-    
-    </summary>
-    
-      <category term="简悬浮Pro" scheme="http://yoursite.com/categories/%E7%AE%80%E6%82%AC%E6%B5%AEPro/"/>
-    
-    
-      <category term="版本发布" scheme="http://yoursite.com/tags/%E7%89%88%E6%9C%AC%E5%8F%91%E5%B8%83/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>简悬浮Pro2.5.6版发布</title>
-    <link href="http://yoursite.com/2019/08/11/Jian-Pro-2-5-6/"/>
-    <id>http://yoursite.com/2019/08/11/Jian-Pro-2-5-6/</id>
-    <published>2019-08-11T08:42:00.000Z</published>
-    <updated>2019-08-11T08:44:38.402Z</updated>
-    
-    <content type="html"><![CDATA[<p>大家好，简悬浮Pro2.5.6版本发布啦！<br>2.5.6版更新日志：<br>1.增加滑动悬停功能<br>2.其它一些优化与调整<br>注意：<br>支持悬停后，之前的在按钮上滑动不停手来移动按钮位置的方法被废弃了，如果要移动按钮位置，需要把长按功能设定为移动按钮位置，然后通过长按来移动。<br>酷市场：<br><a href="http://www.coolapk.com/apk/com.bs.smarttouchpro" target="_blank" rel="noopener">http://www.coolapk.com/apk/com.bs.smarttouchpro</a></p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;大家好，简悬浮Pro2.5.6版本发布啦！&lt;br&gt;2.5.6版更新日志：&lt;br&gt;1.增加滑动悬停功能&lt;br&gt;2.其它一些优化与调整&lt;br&gt;注意：&lt;br&gt;支持悬停后，之前的在按钮上滑动不停手来移动按钮位置的方法被废弃了，如果要移动按钮位置，需要把长按功能设定为移动按钮位置，然
       
     
     </summary>
