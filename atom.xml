@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-12-19T06:37:26.535Z</updated>
+  <updated>2020-12-27T16:28:16.169Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>简悬浮1.7.2版本发布</title>
+    <link href="http://yoursite.com/2020/12/28/Jian-1-7-2/"/>
+    <id>http://yoursite.com/2020/12/28/Jian-1-7-2/</id>
+    <published>2020-12-27T16:26:57.000Z</published>
+    <updated>2020-12-27T16:28:16.169Z</updated>
+    
+    <content type="html"><![CDATA[<p>大家好，简悬浮1.7.2版本发布啦！<br>1.7.2版更新日志：<br>1.支持悬浮按钮最高层级显示<br>2.其它一些细节优化<br>酷市场：<br><a href="http://www.coolapk.com/apk/com.bs.smarttouch" target="_blank" rel="noopener">http://www.coolapk.com/apk/com.bs.smarttouch</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;大家好，简悬浮1.7.2版本发布啦！&lt;br&gt;1.7.2版更新日志：&lt;br&gt;1.支持悬浮按钮最高层级显示&lt;br&gt;2.其它一些细节优化&lt;br&gt;酷市场：&lt;br&gt;&lt;a href=&quot;http://www.coolapk.com/apk/com.bs.smarttouch&quot; targe
+      
+    
+    </summary>
+    
+      <category term="简悬浮" scheme="http://yoursite.com/categories/%E7%AE%80%E6%82%AC%E6%B5%AE/"/>
+    
+    
+      <category term="版本发布" scheme="http://yoursite.com/tags/%E7%89%88%E6%9C%AC%E5%8F%91%E5%B8%83/"/>
+    
+  </entry>
   
   <entry>
     <title>简悬浮Pro2.7.1版发布</title>
@@ -470,31 +495,6 @@
       
       
         &lt;p&gt;大家好，简悬浮Pro2.5.9版本发布啦！&lt;br&gt;2.5.9版更新日志：&lt;br&gt;1.完善微信扫一扫调用逻辑&lt;br&gt;2.优化两个面板资源占用和性能&lt;br&gt;酷市场：&lt;br&gt;&lt;a href=&quot;http://www.coolapk.com/apk/com.bs.smarttouch
-      
-    
-    </summary>
-    
-      <category term="简悬浮Pro" scheme="http://yoursite.com/categories/%E7%AE%80%E6%82%AC%E6%B5%AEPro/"/>
-    
-    
-      <category term="版本发布" scheme="http://yoursite.com/tags/%E7%89%88%E6%9C%AC%E5%8F%91%E5%B8%83/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>简悬浮Pro2.5.8版发布</title>
-    <link href="http://yoursite.com/2019/08/18/Jian-Pro-2-5-8/"/>
-    <id>http://yoursite.com/2019/08/18/Jian-Pro-2-5-8/</id>
-    <published>2019-08-18T12:49:37.000Z</published>
-    <updated>2019-08-18T12:51:39.562Z</updated>
-    
-    <content type="html"><![CDATA[<p>大家好，简悬浮Pro2.5.8版本发布啦！<br>2.5.8版更新日志：<br>1.优化按钮位置更新逻辑<br>2.优化临时移动后复位逻辑<br>酷市场：<br><a href="http://www.coolapk.com/apk/com.bs.smarttouchpro" target="_blank" rel="noopener">http://www.coolapk.com/apk/com.bs.smarttouchpro</a></p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;大家好，简悬浮Pro2.5.8版本发布啦！&lt;br&gt;2.5.8版更新日志：&lt;br&gt;1.优化按钮位置更新逻辑&lt;br&gt;2.优化临时移动后复位逻辑&lt;br&gt;酷市场：&lt;br&gt;&lt;a href=&quot;http://www.coolapk.com/apk/com.bs.smarttouchpro
       
     
     </summary>
