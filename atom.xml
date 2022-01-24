@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2022-01-10T15:56:43.832Z</updated>
+  <updated>2022-01-24T14:24:35.019Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,54 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>简悬浮1.7.4版本发布</title>
+    <link href="http://yoursite.com/2022/01/24/Jian-1-7-4/"/>
+    <id>http://yoursite.com/2022/01/24/Jian-1-7-4/</id>
+    <published>2022-01-24T14:22:40.000Z</published>
+    <updated>2022-01-24T14:24:35.019Z</updated>
+    
+    <content type="html"><![CDATA[<p>大家好，简悬浮1.7.4版本发布啦！<br>1.7.4版更新日志：<br>1.修复部分机型界面显示问题<br>2.适配安卓12部分特性<br>3.其它一些细节优化<br>酷市场：<br><a href="http://www.coolapk.com/apk/com.bs.smarttouch" target="_blank" rel="noopener">http://www.coolapk.com/apk/com.bs.smarttouch</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;大家好，简悬浮1.7.4版本发布啦！&lt;br&gt;1.7.4版更新日志：&lt;br&gt;1.修复部分机型界面显示问题&lt;br&gt;2.适配安卓12部分特性&lt;br&gt;3.其它一些细节优化&lt;br&gt;酷市场：&lt;br&gt;&lt;a href=&quot;http://www.coolapk.com/apk/com.bs.s
+      
+    
+    </summary>
+    
+      <category term="简悬浮" scheme="http://yoursite.com/categories/%E7%AE%80%E6%82%AC%E6%B5%AE/"/>
+    
+    
+      <category term="版本发布" scheme="http://yoursite.com/tags/%E7%89%88%E6%9C%AC%E5%8F%91%E5%B8%83/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>简悬浮Pro2.7.4版发布</title>
+    <link href="http://yoursite.com/2022/01/24/Jian-Pro-2-7-4/"/>
+    <id>http://yoursite.com/2022/01/24/Jian-Pro-2-7-4/</id>
+    <published>2022-01-24T14:22:21.000Z</published>
+    <updated>2022-01-24T14:23:51.644Z</updated>
+    
+    <content type="html"><![CDATA[<p>大家好，简悬浮Pro2.7.4版本发布啦！<br>2.7.4版更新日志：<br>1.修复部分机型界面显示问题<br>2.适配安卓12部分特性<br>3.其它一些细节优化<br>酷安：<br><a href="http://www.coolapk.com/apk/com.bs.smarttouchpro" target="_blank" rel="noopener">http://www.coolapk.com/apk/com.bs.smarttouchpro</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;大家好，简悬浮Pro2.7.4版本发布啦！&lt;br&gt;2.7.4版更新日志：&lt;br&gt;1.修复部分机型界面显示问题&lt;br&gt;2.适配安卓12部分特性&lt;br&gt;3.其它一些细节优化&lt;br&gt;酷安：&lt;br&gt;&lt;a href=&quot;http://www.coolapk.com/apk/com.bs
+      
+    
+    </summary>
+    
+      <category term="简悬浮Pro" scheme="http://yoursite.com/categories/%E7%AE%80%E6%82%AC%E6%B5%AEPro/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>简悬浮Pro2.7.3版发布</title>
@@ -451,56 +499,6 @@
     
     
       <category term="隐私协议" scheme="http://yoursite.com/tags/%E9%9A%90%E7%A7%81%E5%8D%8F%E8%AE%AE/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>简悬浮Pro2.6.0版发布</title>
-    <link href="http://yoursite.com/2019/10/27/Jian-Pro-2-6-0/"/>
-    <id>http://yoursite.com/2019/10/27/Jian-Pro-2-6-0/</id>
-    <published>2019-10-27T02:07:29.000Z</published>
-    <updated>2019-10-27T02:10:00.439Z</updated>
-    
-    <content type="html"><![CDATA[<p>大家好，简悬浮Pro2.6.0版本发布啦！<br>2.6.0版更新日志：<br>1.适配Android Q<br>2.优化去除应用上层显示常驻通知功能<br>3.优化9.0系统以上截图体验<br>酷市场：<br><a href="http://www.coolapk.com/apk/com.bs.smarttouchpro" target="_blank" rel="noopener">http://www.coolapk.com/apk/com.bs.smarttouchpro</a></p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;大家好，简悬浮Pro2.6.0版本发布啦！&lt;br&gt;2.6.0版更新日志：&lt;br&gt;1.适配Android Q&lt;br&gt;2.优化去除应用上层显示常驻通知功能&lt;br&gt;3.优化9.0系统以上截图体验&lt;br&gt;酷市场：&lt;br&gt;&lt;a href=&quot;http://www.coolapk.com
-      
-    
-    </summary>
-    
-      <category term="简悬浮Pro" scheme="http://yoursite.com/categories/%E7%AE%80%E6%82%AC%E6%B5%AEPro/"/>
-    
-    
-      <category term="版本发布" scheme="http://yoursite.com/tags/%E7%89%88%E6%9C%AC%E5%8F%91%E5%B8%83/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>简悬浮1.6.6版本发布</title>
-    <link href="http://yoursite.com/2019/10/27/Jian-1-6-6/"/>
-    <id>http://yoursite.com/2019/10/27/Jian-1-6-6/</id>
-    <published>2019-10-27T02:07:20.000Z</published>
-    <updated>2019-10-27T02:10:03.511Z</updated>
-    
-    <content type="html"><![CDATA[<p>大家好，简悬浮1.6.6版本发布啦！<br>1.6.6版更新日志：<br>1.适配Android Q<br>2.优化去除应用上层显示常驻通知功能<br>3.优化9.0系统以上截图体验<br>酷市场：<br><a href="http://www.coolapk.com/apk/com.bs.smarttouch" target="_blank" rel="noopener">http://www.coolapk.com/apk/com.bs.smarttouch</a></p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;大家好，简悬浮1.6.6版本发布啦！&lt;br&gt;1.6.6版更新日志：&lt;br&gt;1.适配Android Q&lt;br&gt;2.优化去除应用上层显示常驻通知功能&lt;br&gt;3.优化9.0系统以上截图体验&lt;br&gt;酷市场：&lt;br&gt;&lt;a href=&quot;http://www.coolapk.com/ap
-      
-    
-    </summary>
-    
-      <category term="简悬浮" scheme="http://yoursite.com/categories/%E7%AE%80%E6%82%AC%E6%B5%AE/"/>
-    
-    
-      <category term="版本发布" scheme="http://yoursite.com/tags/%E7%89%88%E6%9C%AC%E5%8F%91%E5%B8%83/"/>
     
   </entry>
   
